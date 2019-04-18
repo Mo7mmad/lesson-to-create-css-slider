@@ -1,3 +1,5 @@
+![enter image description here](https://1.bp.blogspot.com/-Mua5f2TmQ2s/WDcUZnUDsNI/AAAAAAAAFFs/AMlgG2vYSX4umAhU2ciLn7jdA2vR5LSAQCLcB/s640/pure-css-slider.png)
+
 # Welcome 
 
 In this lesson we will learn how to make slider with css  
