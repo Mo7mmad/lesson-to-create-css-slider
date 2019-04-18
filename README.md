@@ -1,7 +1,9 @@
 # Welcome 
 
-In this lesson we will learn how to make slider with css 
-we well not using javascript in this lesson 
+In this lesson we will learn how to make slider with css  
+
+we well not using javascript in this lesson   
+
 it is a pure css slider 
 
 # live Demo 
